@@ -1,0 +1,115 @@
+{
+    "liveServer.settings.donotVerifyTags": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.autoSave": "afterDelay",
+    "window.menuBarVisibility": "compact",
+    "explorer.confirmDelete": false,
+    "workbench.view.alwaysShowHeaderActions": true,
+    "scm.diffDecorationsGutterVisibility": "hover",
+    "workbench.iconTheme": "icons",
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "tabnine.experimentalAutoImports": true,
+    "workbench.preferredHighContrastColorTheme": "Default High Contrast Light",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "codesnap.shutterAction": "copy",
+    "github.copilot.enable": {
+        "*": true,
+        "yaml": false,
+        "plaintext": false,
+        "markdown": false,
+        "javascript": true
+    },
+    "editor.fontSize": 13,
+    "javascript.inlayHints.enumMemberValues.enabled": true,
+    "editor.snippetSuggestions": "top",
+    "prettier.singleQuote": true,
+    "prettier.trailingComma": "all",
+    "prettier.jsxBracketSameLine": true,
+    "prettier.printWidth": 100,
+    "eslint.format.enable": true,
+    "emmet.triggerExpansionOnTab": true,
+    "editor.lineHeight": 28,
+    "editor.minimap.enabled": false,
+    "editor.fontLigatures": true,
+    "editor.cursorBlinking": "phase",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.cursorStyle": "underline",
+    "terminal.integrated.lineHeight": 1.2,
+    "git.enableSmartCommit": true,
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    "explorer.confirmDragAndDrop": false,
+    "html.format.endWithNewline": true,
+    "files.associations": {
+        "\"*.tpl\": \"html\",     \"*.svelte\": \"html\"": ""
+    },
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.detectIndentation": false,
+    "workbench.colorCustomizations": {
+        "editorCursor.foreground": "#b1b325",
+    },
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "editor.semanticHighlighting.enabled": false,
+    "workbench.startupEditor": "none",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "emmet.syntaxProfiles": {},
+    "[scss]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "liveSassCompile.settings.formats": [
+        {
+            "format": "expanded",
+            "extensionName": ".css",
+            "savePath": "~/../css/"
+        }
+    ],
+    "liveSassCompile.settings.autoprefix": [
+        "> 1%",
+        "last 2 versions"
+    ],
+    "livePugCompiler.savePath": "~/../html/",
+    "workbench.editor.enablePreview": false,
+    "editor.inlineSuggest.enabled": true,
+    "ecsstractor_port.bem_nesting": true,
+    "ecsstractor_port.attributes": "className",
+    "vsicons.dontShowNewVersionMessage": true,
+    "editor.stickyTabStops": true,
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "prettier.tabWidth": 4,
+    "liveSassCompile.settings.showOutputWindowOn": "None",
+    "workbench.colorTheme": "Atom One Dark",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "liveServer.settings.CustomBrowser": "chrome",
+    "editor.accessibilitySupport": "off",
+    "editor.fontFamily": "Consolas, 'Courier New',Monospace",
+    "npm.keybindingsChangedWarningShown": true,
+    "git.openRepositoryInParentFolders": "never",
+    "eslint.codeActionsOnSave.rules": null,
+    "json.schemas": [
+    
+    ],
+    "window.zoomLevel": 1,
+}
